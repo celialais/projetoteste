@@ -1,0 +1,15 @@
+Fluxo de Trabalho
+
+Para entendermos o fluxo de trabalho vamos abordar 4 comandos e 3 novos conceitos:
+
+    conceitos:
+        diretório de trabalho: diretório que estamos trabalhando localmente;
+        index: área temporária do git, onde é preparado os arquivos para o commit, chamado, também, de área de stage;
+        HEAD: área que aponta pro último commit consumado;
+    comandos:
+        add: move os arquivos do diretório de trabalho para a index;
+        reset: move os arquivos da index para o diretório de trabalho;
+        commit: realiza de fato a confirmação, cria de fato um pacote do atual estado dos arquivos;
+        status: verifica o atual estado do repositório, quanto a mudanças.
+
+PS: Edições, adições e exclusões de arquivos são considerados mudanças.
