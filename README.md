@@ -1,10 +1,4 @@
 ## Treinamento
 
-### Git e Github.
+### Git e Github. :man_student:
 
-
-
-
-
-�
-�
